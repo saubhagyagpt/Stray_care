@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_docprofile.xml" value="0.22" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_doctor.xml" value="0.2" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_doctorshowinjuredpet.xml" value="0.11927083333333334" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_doctorsignup.xml" value="0.18" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_ngo.xml" value="0.22" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_ngoprofile.xml" value="0.25" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_ngoshowlistcremation.xml" value="0.11927083333333334" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_ngoshowlistofabandoned.xml" value="0.13802083333333334" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_ngosignup.xml" value="0.33" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_user.xml" value="0.1859375" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_userdonate.xml" value="0.14" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_userdonatengodetail.xml" value="0.22" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_userprofile.xml" value="0.16" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_usersendabandomedngo.xml" value="0.25" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_usersendabandomedngodetails.xml" value="0.2" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_usersendforcremationngodetails.xml" value="0.2" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_usersendinjuredpetdoc.xml" value="0.18" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_usersendinjuredpettodoctordetails.xml" value="0.25" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/activity_usersignup.xml" value="0.2" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/custom_list_itemdoctorshowinjuredpet.xml" value="0.22" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/custom_list_itemdoctorshowprofile.xml" value="0.11927083333333334" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/custom_list_itemngodatadonate.xml" value="0.2" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/custom_list_itemngoshowprofile.xml" value="0.13802083333333334" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/custom_list_itemsendinjuredpet.xml" value="0.18" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/custom_list_itemshodonationtongo.xml" value="0.11927083333333334" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/custom_list_itemshowcremationngo.xml" value="0.11927083333333334" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/custom_list_itemshowdonationtongo.xml" value="0.11927083333333334" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/custom_list_itemusershowprofile.xml" value="0.18" />
+        <entry key="..\:/STRAYCARE/app/src/main/res/layout/custom_list_ngoshowabandonedpet.xml" value="0.11927083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

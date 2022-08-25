@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".usersendabandomedngodetails">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NGO ID:"
+        android:textSize="20sp"
+        android:id="@+id/txtID"
+        android:layout_marginBottom="10dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NGO Name:"
+        android:textSize="20sp"
+        android:id="@+id/txtname"
+        android:layout_marginBottom="10dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NGO Email:"
+        android:textSize="20sp"
+        android:id="@+id/txtemail"
+        android:layout_marginBottom="10dp"
+        />
+    <TextView
+        android:id="@+id/txcontact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NGO Contact:"
+        android:textSize="20sp"
+
+        android:layout_marginBottom="10dp"
+        />
+
+    <TextView
+        android:id="@+id/txtaddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="NGO Address:"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="USER NAME"
+        android:textSize="20sp"
+        android:id="@+id/txtUSERNAME"
+        android:layout_marginBottom="10dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="USER EMAIL"
+        android:textSize="20sp"
+        android:id="@+id/txtUSEREMAIL"
+        android:layout_marginBottom="10dp"
+        />
+
+    <EditText
+        android:id="@+id/txtanitype"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:text="ANIMAL TYPE" />
+
+    <EditText
+        android:id="@+id/textViewLOCATION"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:text="LOCATION" />
+
+    <EditText
+        android:id="@+id/textcondition"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:text="CONDITION" />
+
+    <Button
+        android:id="@+id/button3DONATE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="insertabandonedanidata"
+        android:text="Button" />
+
+</LinearLayout>
